@@ -90,7 +90,7 @@ const styles = StyleSheet.create({
     fontSize: 18,
   },
   tableContainer: {
-    backgroundColor: "lightgrey",
+    backgroundColor: "lightgreen",
     borderRadius: 10,
     shadowColor: "#000",
     shadowOffset: {
@@ -141,7 +141,7 @@ const styles = StyleSheet.create({
     position: "absolute",
     bottom: 0,
     width: "100%",
-    backgroundColor: "#333",
+    backgroundColor: "grey",
     paddingVertical: 10,
     alignItems: "center",
   },
